@@ -1,0 +1,9 @@
+To create multiple files
+touch file2 file3 file4 file5 
+
+To move multiple files from workspace phase to s/i phase 
+git add file2 file3 file4
+
+git add * or git add . or git add -A to consider all files
+
+git commit -m "label" to commit all files
